@@ -21,7 +21,7 @@
 <div>
   <a href="https://www.linkedin.com/in/roberson-diego-martinho-do-valle-068054b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/RobersonValle/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/RobersonValle/RobersonValle/blob/output/github-contribution-grid-snake.svg)
  
 </div>  
-</div>
+
