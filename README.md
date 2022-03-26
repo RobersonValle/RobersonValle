@@ -1,4 +1,4 @@
-## Olá eu sou o Roberson Diego 👋
+## Olá! Eu sou o Roberson Diego 👋
 
 - 🔭 Estou trabalhando atualmente com Python para Analise e tratamento de Dados, Bando SQL Server e Power BI.
 - 📚 Estou cursando MBA em Big Data - Data Science pela FIAP
