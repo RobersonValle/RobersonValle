@@ -5,7 +5,7 @@
 - 🌱 E também estou estudando Estatística, Machine Learning e IA, visando a área de Ciência de Dados
 - 🤖 Gosto de filmes, series e jogos digitais
 - 👻 Amante de jogos de mesa como Board Games e RPG
-- 💬 Fique a vontade para me procurar e bater um papo
+- 💬 Fique a vontade para me procurar e batermos um papo
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
