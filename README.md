@@ -1,8 +1,11 @@
 ## Olá! Eu sou o Roberson Diego 👋
 
-- 🔭 Estou trabalhando atualmente com Python para Analise e tratamento de Dados, Bando SQL Server e Power BI.
-- 📚 Estou cursando MBA em Big Data - Data Science pela FIAP
-- 🌱 E também estou estudando Estatística, Machine Learning e tudo que tiver curiosidade voltado para Ciência de Dados.
+- 🔭 Trabalhando atualmente com Python para Analise e tratamento de Dados, Bando SQL Server e Power BI
+- 📚 Curso MBA em Big Data - Data Science pela FIAP com formação prevista para Junho de 2022
+- 🌱 E também estou estudando Estatística, Machine Learning e IA, visando a área de Ciência de Dados
+- 🤖 Gosto de filmes, series e jogos digitais
+- 👻 Amante de jogos de mesa como Board Games e RPG
+- 💬 Fique a vontade para me procurar e bater um papo
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
