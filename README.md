@@ -19,8 +19,8 @@
  
   <img align="center" alt="Rob-Python" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img align="center" alt="Rob-SQL" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Rob-BigQuery" src="https://img.shields.io/badge/-Google%20Bigquery-blue">
   <img align="center" alt="Rob-Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+   <img align="center" alt="Rob-BigQuery" height="27" width="150" src="https://img.shields.io/badge/-Google%20Bigquery-blue">
   <img align="center" alt="Rob-PBI" height="27" width="150" src="https://img.shields.io/badge/-Microsoft%20Power%20BI-yellow"> 
    
 
